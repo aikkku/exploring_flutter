@@ -1,7 +1,7 @@
-## Exploring flutter
+# Exploring flutter
 
-# Active tutorials
+## Active tutorials
 https://youtu.be/pTJJsmejUOQ
 
-# To do
+## To do
 ❔ Learn Flutter
